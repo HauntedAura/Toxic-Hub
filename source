@@ -722,7 +722,7 @@ function Library:CreateLib(name, themeList)
 				-- StarterGui.ScreenGui.Main.Container.TestTab.Slider.SliderBack.SliderPart
 				Slider["31"] = Instance.new("Frame", Slider["2f"]);
 				Slider["31"]["BackgroundColor3"] = themeList.Slider;
-				Slider["31"]["Size"] = UDim2.new(0.4423076808452606, 0, 1, 0);
+				Slider["31"]["Size"] = UDim2.new(0, 0, 1, 0);
 				Slider["31"]["Name"] = [[SliderPart]];
 
 				-- StarterGui.ScreenGui.Main.Container.TestTab.Slider.SliderBack.SliderPart.UICorner
