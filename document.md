@@ -3,7 +3,7 @@ Use this document to help create a UI useing Toxic UI.
 
 ## Booting the Library
 ``` lua
-Local ToxicLib = loadstring(game:HttpGet(("https://raw.githubusercontent.com/HauntedAura/ToxicUI/main/source.lua")))()
+Local ToxicLib = loadstring(game:HttpGet(("https://raw.githubusercontent.com/HauntedAura/Toxic-Hub/main/source")))()
 ```
 
 ## Creating a Window
