@@ -1053,7 +1053,6 @@ function Library:CreateLib(name, themeList)
 						end
 
 						Dropdown.IsDropped = not Dropdown.IsDropped
-						print(Dropdown.IsDropped)
 					end
 				end
 
