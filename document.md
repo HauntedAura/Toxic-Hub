@@ -55,7 +55,7 @@ end)
 ``` lua
 local Toggle = Tab:CreateToggle("Tab Name", function(state)
     if state then
-      print("On)
+      print("On")
     else
       print("Off")
      end
